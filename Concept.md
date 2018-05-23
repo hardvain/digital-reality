@@ -36,3 +36,4 @@
 * During rendering the scene, the rendering engine, for each pixel will calculate the color of the pixel based on the arrangement of the layers, and the opacity of the top most layer
 * The time in the film can be paused to see what was happening in real time
 * In case of a 3D film, when the time is paused, the location of the camera can be changed to get different views
+* The camera angle is also encoded as a function of time which will be taken into account during rendering the scene thus enable to chasnge the view of the camera in between the scene

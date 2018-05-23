@@ -1,1 +1,1 @@
-Digital Reality is a language and software to define real world in digital terms where we have much more control and we are the GOD. Head over to [Concept](./Concept.md) to know more about it.
+Digital Reality is a language and software to define real world in digital terms where we have much more control. Head over to [Concept](./Concept.md) to know more about it.
